@@ -1,4 +1,6 @@
 - JS
+  *ES6
+  * Framework JS
 -HTML
 - CSS
 - Rubby
